@@ -1,7 +1,8 @@
 # docker-tempel-boi
+
 Docker Image of Tempel.BOI
 
---------------------------
+## How to run
 
 ```sh
 docker pull blankoninfra/tempel
